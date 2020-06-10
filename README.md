@@ -14,7 +14,7 @@ The script works in the following way :
 
 #happyunfollowing snakes in your friend list.
 
-#input command
+input command
 1)npm install puppeteer
 2)node "unfollowers.js" "credentials.js"
 
